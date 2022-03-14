@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K1i5BL1K3FvywQUPEBHD3UsO07ilIqohRMO5WMVMWpeo+8BudisW2DDNOLz7eoePolXiAqTWld3t8hwH/AwQpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\tingfeng\\tingfeng\\tingfeng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
